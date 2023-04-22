@@ -1,0 +1,21 @@
+img{
+    width: 100%;
+}
+.navbar{
+    font-family: 'Philosopher', sans-serif;
+}
+.logo{
+    font-family: 'Press Start 2P', cursive;
+}
+.image{
+border-radius:50% ;
+}
+.row{
+    margin: 50px 0;
+}
+.container{
+background-color: rgb(148, 164, 177);
+}
+.nav-link{
+    color: black;
+}
